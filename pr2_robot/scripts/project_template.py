@@ -128,7 +128,7 @@ def pr2_mover(object_list):
             print ("Response: ",resp.success)
 
         except rospy.ServiceException, e:
-            print "Service call failed: %s"%e
+            print("Service call failed: %s" % e)
 
     # TODO: Output your request parameters into output yaml file
 
