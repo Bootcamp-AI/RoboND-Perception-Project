@@ -27,7 +27,7 @@ $ git clone https://github.com/bootcamp-ai/RoboND-Perception-Project.git
 Now install missing dependencies using rosdep install:
 ```sh
 $ cd ~/catkin_ws
-$ rosdep install --from-paths src --ignore-src --rosdistro=kinetic -y
+$ rosdep install --from-paths src --ignore-src --rosdistro=noetic -y
 ```
 Build the project:
 ```sh
