@@ -1,5 +1,5 @@
 # 3D Perception
-Before starting any work on this project, please complete all steps for [Exercise 1, 2 and 3](https://github.com/udacity/RoboND-Perception-Exercises). At the end of Exercise-3 you have a pipeline that can identify points that belong to a specific object.
+Before starting any work on this project, please complete all steps for [Exercise 1, 2 and 3](https://github.com/bootcamp-ai/RoboND-Perception-Exercises). At the end of Exercise-3 you have a pipeline that can identify points that belong to a specific object.
 
 In this project, you must assimilate your work from previous exercises to successfully complete a tabletop pick and place operation using PR2.
 
@@ -20,7 +20,7 @@ $ catkin_make
 Now that you have a workspace, clone or download this repo into the src directory of your workspace:
 ```sh
 $ cd ~/catkin_ws/src
-$ git clone https://github.com/udacity/RoboND-Perception-Project.git
+$ git clone https://github.com/bootcamp-ai/RoboND-Perception-Project.git
 ```
 ### Note: If you have the Kinematics Pick and Place project in the same ROS Workspace as this project, please remove the 'gazebo_grasp_plugin' directory from the `RoboND-Perception-Project/` directory otherwise ignore this note. 
 
